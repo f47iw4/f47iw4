@@ -1,6 +1,6 @@
 <!-- title:resume -->
 
-## ꕥ ೄྀ࿐ ˊˎ- Hi there 🌱  
+## ꕥ ೄྀ࿐ ˊˎ- Hi there 🫧🌱
 
 **`Digital Craftsmanship (SoftDeveloper Jr/Graphic Designer/Image Retouching)`**
 
