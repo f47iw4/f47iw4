@@ -33,7 +33,7 @@
          and I'm all set to apply my skills in a real-world setting. Currently looking for an internship 👩🏽‍💻
     
 
-        🌱 you can take a look at my LinkedIn or follow me on X :D
+        🌱 you can take a look at my LinkedIn or ask me anything,
     
          ~~feel free to contact~~ ✨🌱
 
