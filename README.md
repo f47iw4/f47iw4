@@ -6,8 +6,8 @@
 
 # ᓚᘏᗢ    f47iw4
 
-</br> 
 
+</br>  
 <!-- skills:icons -->
 
 <div align="center">  
@@ -21,20 +21,18 @@
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  &nbsp 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  &nbsp 
 
-
 </br>
 
-
 <!-- about me -->
-         I'm a Software Development student eager to kick-start my career in the tech industry 😊
-         -Strong foundation in: 
-         -Graphic Design 🎨 
-         -Photography 📸🎞 
-         -CS fundamentals
+         Hi 👋 I'm a Software Development student eager to kick-start my career in the tech industry 😊
+        I have strong foundations in: 
+         Graphic Design 🎨 
+         Photography 📸🎞, 
+         CS fundamentals 💾1️⃣0️⃣
+         
          and I'm all set to apply my skills in a real-world setting. Currently looking for an internship 👩🏽‍💻
     
 
         🌱 you can take a look at my LinkedIn or follow me on X :D
     
          ~~feel free to contact~~ ✨🌱
-         
