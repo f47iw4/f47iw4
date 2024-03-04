@@ -1,6 +1,6 @@
-### ꕥ ೄྀ࿐ ˊˎ- Hi there 👋  # ᓚᘏᗢ    f47iw4
+### ꕥ ೄྀ࿐ ˊˎ- Hi there 👋  
 
+# ᓚᘏᗢ    f47iw4
 
-**`Digital Craftsmanship (Developer Jr/Graphic Designer/Image Retouching)`**
+**`Digital Craftsmanship (SoftDeveloper Jr/Graphic Designer/Image Retouching)`**
 
-###
