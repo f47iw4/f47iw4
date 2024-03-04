@@ -38,4 +38,4 @@
          ~~feel free to contact~~ ✨🌱
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f47iw4&label=👀%20&color=017C91&style=flat" alt="f47iw4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=f47iw4&label=👀%20&color=c90076&style=flat" alt="f47iw4" /> </p>
