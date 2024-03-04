@@ -1,10 +1,9 @@
-### Hi there 👋
+### ꕥ ೄྀ࿐ ˊˎ- Hi there 👋  
 
 
-# 🏄‍♂️ f47iw4
+# ᓚᘏᗢ f47iw4
 
-**`Digital Craftsman (Developer Jr/Graphic Designer/Image Retouching)`**
-
+**`Digital Craftsmanship (Developer Jr/Graphic Designer/Image Retouching)`**
 
 
 
