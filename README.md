@@ -27,7 +27,7 @@
          Hi 👋 I'm a Software Development student eager to kick-start my career in the tech industry 😊
         I have strong foundations in: 
          Graphic Design 🎨 
-         Photography 📸🎞, 
+         Photography 📸🎞
          CS fundamentals 💾1️⃣0️⃣
          
          and I'm all set to apply my skills in a real-world setting. Currently looking for an internship 👩🏽‍💻
