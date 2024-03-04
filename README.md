@@ -36,3 +36,6 @@
         🌱 you can take a look at my LinkedIn or follow me on X :D
     
          ~~feel free to contact~~ ✨🌱
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=f47iw4&label=Visitas%20al%20perfil&color=017C91&style=plastic" alt="f47iw4" /> </p>
