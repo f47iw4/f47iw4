@@ -33,11 +33,15 @@
          and I'm all set to apply my skills in a real-world setting. Currently looking for an internship 👩🏽‍💻
     
 
-        🌱 you can take a look at my LinkedIn or ask me anything,
+        🌱 you can take a look at my LinkedIn
+
+        <a href="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" weight="10" width="10" /></a>
+        
+         or ask me anything,
     
          ~~feel free to contact~~ ✨🌱
 
-<a href="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" weight="20" width="20" /></a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f47iw4&label=👀%20&color=c90076&style=flat" alt="f47iw4" /> </p>
