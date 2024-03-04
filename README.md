@@ -39,7 +39,6 @@
          ~~feel free to contact~~ ✨🌱
 
 
-<a href="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" weight="9 width="10" /></a>
-
+<a href="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" weight="20" width="20" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f47iw4&label=👀%20&color=c90076&style=flat" alt="f47iw4" /> </p>
