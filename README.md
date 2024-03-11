@@ -38,7 +38,7 @@ Currently looking for an internship 👩🏽‍💻
 
 
 
-                 # feel free to contact and thanks for passing by ~ ✨🌱
+                             # feel free to contact and thanks for passing by ~ ✨🌱
 
 <a href="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" weight="20" width="20" /></a>
 
