@@ -2,7 +2,8 @@
 
 ## ꕥ ೄྀ࿐ ˊˎ- Hi there, welcome 🫧🌱
 
-**`Digital Craftsmanship (SoftDeveloper Jr/Graphic Designer)`**
+**`Digital Craftsmanship`**
+**`(SoftDeveloper Jr/Graphic Designer)`**
 
 # ᓚᘏᗢ    f47iw4
 
