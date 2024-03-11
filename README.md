@@ -27,9 +27,9 @@
           
 
          
-Hi 👋 I'm a Sofware Development student and an Information Technology enthusiast.
+Hi 👋 I'm a Software Development student and a programming enthusiast.
 
-With strong foundations in Front-End Development, CS fundamentals 💾1️⃣0️⃣ and Graphic Design 🎨📸🎞,       
+With strong foundations in Front-End Development, CS fundamentals 💾1️⃣0️⃣, and Graphic Design 🎨📸🎞,       
 I'm all set to apply my skills in a real-world setting. 
 
 
@@ -37,8 +37,7 @@ Currently looking for an internship 👩🏽‍💻
 🌱 you can take a look at my LinkedIn or ask me anything,
 
 
-
-                                     # feel free to contact and thanks for passing by ~ ✨🌱
+                     # feel free to contact and thanks for passing by ~ ✨🌱
 
 <a href="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-gonzalez-rhanny/" weight="20" width="20" /></a>
 
