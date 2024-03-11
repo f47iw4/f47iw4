@@ -1,8 +1,8 @@
 <!-- title:resume -->
 
-## ꕥ ೄྀ࿐ ˊˎ- Hi there, welcome 🫧🌱
+## ꕥ ೄྀ࿐ ˊˎ- Hi there, welcome 🫧
 
-**`Digital Craftsmanship`**
+**`Digital Craftsmanship 🌱`**
 **`(SoftDeveloper Jr/Graphic Designer)`**
 
 # ᓚᘏᗢ    f47iw4
