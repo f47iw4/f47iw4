@@ -8,6 +8,7 @@
 
 
 </br>  
+
 <!-- skills:icons -->
 
 <div align="center">  
@@ -24,6 +25,7 @@
 </br>
 
 <!-- about me -->
+
          Hi 👋 I'm a Software Development student eager to kick-start my career in the tech industry 😊
         I have strong foundations in: 
          Graphic Design 🎨 
