@@ -29,7 +29,7 @@
          
 Hi 👋 I'm a Software Development student and a programming enthusiast.
 
-With strong foundations in Front-End Development, CS fundamentals 💾1️⃣0️⃣ and Graphic Design 🎨📸🎞,       
+With strong foundations in Front-End Development, Graphic Design 🎨📸🎞, and CS fundamentals 💾1️⃣0️⃣      
 I'm all set to apply my skills in a real-world setting. 
 
 
