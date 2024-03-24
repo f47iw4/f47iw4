@@ -33,7 +33,7 @@ With strong foundations in Front-End Development, Graphic Design 🎨📸🎞, a
 I'm all set to apply my skills in a real-world setting. 
 
 
-Currently looking for an internship 👩🏽‍💻        
+Currently studying CS and looking for an internship 👩🏽‍💻        
 🌱 you can take a look at my LinkedIn or ask me anything,
 
 
