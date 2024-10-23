@@ -3,7 +3,7 @@
 ## ꕥ ೄྀ࿐ ˊˎ- Hi there, welcome 🫧
 
 **`🌱`**
-**`(SoftDeveloper Jr/Graphic Designer)`**
+**`(SoftDev Jr || Graphic Designer)`**
 
 # ᓚᘏᗢ    f47iw4
 
