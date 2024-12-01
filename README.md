@@ -1,11 +1,11 @@
 <!-- title:resume -->
 
-## ꕥ ೄྀ࿐ ˊˎ- Hi there, welcome 🫧
+## Hi there, welcome 🫧
 
 **`🌱`**
 **`(SoftDev Jr || Graphic Designer)`**
 
-# ᓚᘏᗢ    f47iw4
+
 
 
 <!-- skills:icons -->
