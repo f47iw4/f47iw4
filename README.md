@@ -25,7 +25,7 @@
           
 
          
-Hi 👋 I'm a Full Stack developer        
+Hi 👋 I'm a Web App developer        
 🌱 you can take a look at my LinkedIn or ask me anything, feel free to contact and thanks for passing by ~ ✨🌱
 
 
