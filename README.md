@@ -3,7 +3,7 @@
 ## Hi there, welcome 🫧
 
 **`🌱`**
-**`(SoftDev Trainee || Graphic Designer)`**
+**`(SoftDev || Graphic Designer)`**
 
 
 
