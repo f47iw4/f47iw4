@@ -3,7 +3,7 @@
 ## Hi there, welcome 🫧
 
 **`🌱`**
-**`(SoftDev || Graphic Designer || Systems Enthusiast)`**
+**`(WebDev || Graphic Designer || Systems Enthusiast)`**
 
 
 
