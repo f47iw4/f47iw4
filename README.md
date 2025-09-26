@@ -26,6 +26,11 @@
 
          
 Hi there 👋        
+Here you can find:
+-- Projects I'm currently working on.
+-- Finished projects and colaborations.
+-- Some exercises and homework I did while learning. 
+
 🌱 you can take a look at my LinkedIn or ask me anything, feel free to contact and thanks for passing by ~ ✨🌱
                      
 
